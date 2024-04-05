@@ -6,11 +6,11 @@ Run AutoML using natural text. Like HuggingGPT + LangChain + type inference
 
 It picks a right model from Hugging Face library based on user natural language query and then runs the model and parses the output to a type, inferred from the query
 
+<p align="center"><img width="500" src="https://github.com/jmaczan/text-to-ml/assets/18054202/63367fd9-5db9-46a2-8ec7-e17f5c8e2863" alt="Text-to-ML"></p>
+
 > ⚡ You can run this code in [Lightning AI Studio template](https://lightning.ai/jed/studios/build-your-own-automl-using-hugging-face-inference-client-and-openai-api)
 
-<p align="center"><img width="500" src="image.png" alt="Text-to-ML"></p>
-
-It's still an early project, so feel welcome to contribute!
+It's still an early project and **you are welcome to contribute**!
 
 ## Setup
 
