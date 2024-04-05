@@ -2,6 +2,8 @@
 
 Run AutoML using natural text. Like HuggingGPT + LangChain + type inference
 
+> 🏭 A breakdown of what is going on in code you can read on my blog: [maczan.pl](https://maczan.pl/p/lets-build-text-to-ml-an-automl-library)
+
 It picks a right model from Hugging Face library based on user natural language query and then runs the model and parses the output to a type, inferred from the query
 
 <p align="center"><img width="500" src="image.png" alt="Text-to-ML"></p>
