@@ -14,6 +14,7 @@ It picks a right model from Hugging Face library based on user natural language 
   <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open In Studio"/>
 </a>
 </p>
+
 It's still an early project and **you are welcome to contribute**!
 
 ## Setup
