@@ -1,5 +1,7 @@
 # 🎮 text-to-ml
 
+> 💜 PagedOut #4 Issue ["Building automated machine learning with type inference"](https://pagedout.institute/download/PagedOut_004_beta1.pdf#page=4)
+
 Run AutoML using natural text. Like HuggingGPT + LangChain + type inference
 
 > 🏭 A breakdown of what is going on in code you can read on my blog: [maczan.pl](https://maczan.pl/p/lets-build-text-to-ml-an-automl-library)
