@@ -51,6 +51,19 @@ python app.py
 python experiments.py
 ```
 
+## Cite
+If you use this software in your research, please use the following citation:
+
+```bibtex
+@misc{Maczan_GPT_2024,
+  title = "Programmable automated machine learning - proof of concept",
+  author = "{Maczan, Jędrzej Paweł}",
+  howpublished = "\url{https://github.com/jmaczan/text-to-ml}",
+  year = 2024,
+  publisher = {GitHub}
+}
+```
+
 ## License
 
 GPLv3
