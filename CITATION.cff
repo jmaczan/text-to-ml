@@ -4,6 +4,6 @@ authors:
 - family-names: "Maczan"
   given-names: "Jędrzej Paweł"
   orcid: "https://orcid.org/0000-0003-1741-6064"
-title: "text-to-ml"
+title: "Programmable automated machine learning - proof of concept"
 date-released: 2024-04-04
 url: "https://github.com/jmaczan/text-to-ml"
